@@ -1,9 +1,8 @@
 import React from 'react'
-
 function Navbar()
 {
     return(
-        <nav className='navs'><img src="logo (1).png"/></nav>
+        <nav className='navs'><img src='/images/logo.png'/></nav>
         
     )
 }
